@@ -1,0 +1,10 @@
+﻿  Interface.cpp
+D:\FastSPDC\4_17_FastSPDC实验\FastSPDC\FastSPDC\Interface.cpp(37,23): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\FastSPDC\4_17_FastSPDC实验\FastSPDC\FastSPDC\Interface.cpp(11,49): warning C4100: “nrhs”: 未引用的形参
+D:\FastSPDC\4_17_FastSPDC实验\FastSPDC\FastSPDC\Interface.cpp(11,22): warning C4100: “nlhs”: 未引用的形参
+Interface.obj : error LNK2019: 无法解析的外部符号 mxGetScalar_800，该符号在函数 mexFunction 中被引用
+Interface.obj : error LNK2019: 无法解析的外部符号 mxGetN_800，该符号在函数 mexFunction 中被引用
+Interface.obj : error LNK2019: 无法解析的外部符号 mxGetPr_800，该符号在函数 mexFunction 中被引用
+Interface.obj : error LNK2019: 无法解析的外部符号 mxCreateDoubleMatrix_800，该符号在函数 mexFunction 中被引用
+Interface.obj : error LNK2019: 无法解析的外部符号 mxGetString_800，该符号在函数 mexFunction 中被引用
+D:\FastSPDC\4_17_FastSPDC实验\FastSPDC\x64\Debug\FastSPDC.exe : fatal error LNK1120: 5 个无法解析的外部命令
